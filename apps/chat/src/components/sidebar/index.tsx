@@ -85,7 +85,7 @@ export function Sidebar({ children }: { children: React.ReactNode }) {
           <div className={styles["sidebar-title"]}>{Locale.Index.Title}</div>
           <div className={styles["sidebar-sub-title"]}>
             {Locale.Index.SubTitle}{" "}
-            <span className={styles["sidebar-ad"]}>Magic万事屋</span>
+            <span className={styles["sidebar-ad"]}>冯杰你好，欢迎来带我的代码世界</span>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
